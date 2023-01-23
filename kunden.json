@@ -1,0 +1,52 @@
+{
+	"kunden": [ 
+		{
+			"name": "Sedaris", 
+			"vorname": "David",
+			"geburtstag": "01.06.1990", 
+			"wohnort":"San Francisco" 
+		},
+		{
+			"name": "Mann",
+			"vorname": "Thomas",
+			"geburtstag": "22.05.1980",
+			"wohnort":"Lübeck"
+		},
+		{
+			"name": "Brecht",
+			"vorname": "Bertolt",
+			"geburtstag": "22.05.1950",
+			"wohnort":"Augsburg"
+		},
+		{
+			"name": "Heine",
+			"vorname": "Heinrich",
+			"geburtstag": "22.05.1970",
+			"wohnort":"Düsseldorf"
+		},
+		{
+			"name": "Kästner",
+			"vorname": "Erich",
+			"geburtstag": "22.05.1956",
+			"wohnort":"Hannover"
+		},
+		{
+			"name": "Schiller",
+			"vorname": "Friedrich",
+			"geburtstag": "22.05.1856",
+			"wohnort":"Weimar"
+		},
+		{
+			"name": "Busch",
+			"vorname": "Wilhelm",
+			"geburtstag": "22.05.1832",
+			"wohnort":"Hannover"
+		},
+		{
+			"name": "Grass",
+			"vorname": "Günter",
+			"geburtstag": "22.05.1932",
+			"wohnort":"Lübeck"
+		}
+	]
+}
